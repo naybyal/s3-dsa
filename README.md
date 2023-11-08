@@ -1,2 +1,4 @@
-# s3-dsa
-Data Structures and Algorithms 
+# Data Structures and Algorithms 
+
+
+Feel free to use this resource as a reference. 
