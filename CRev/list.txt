@@ -1,0 +1,10 @@
+1) Linear Search (DONE!)
+2) Bubble Sort (DONE!)
+3) Array
+	a) Insertion of elements (DONE!)
+	b) Deletion of elements (DONE!)
+	c) Square of even and cube of odd (DONE!)
+	d) Matrix w/ Switch
+4) Structures
+5) Union
+
